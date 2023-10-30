@@ -101,5 +101,12 @@ export let tools = {
         icon: 'indent',
         link: '/code-beautify',
         description: "Transform messy code into clean, readable scripts effortlessly with our intuitive online code beautifier. Enhance your code's aesthetics today!"
+    },
+    
+    'sql-formatter': {
+        name: 'SQL Formatter',
+        icon: 'indent',
+        link: '/sql-formatter',
+        description: "SQL formatter"
     }
 };
